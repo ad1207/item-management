@@ -33,6 +33,12 @@ To run the client, execute the following lines of code
 The client will start in the localhost:5173. You can now open your browser [Here](http://localhost:5173/)
 
 
+## Demo
+
+Check this video for demo
+https://drive.google.com/file/d/12Hs4YrYyJ4Ayf5IWdoCnLJy5CZ6CdbHc/view?usp=sharing
+
+
 
 
     
